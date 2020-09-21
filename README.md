@@ -1,0 +1,3 @@
+# GazeMovementClient
+
+Проект для ВКР
